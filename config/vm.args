@@ -1,0 +1,6 @@
+-sname web_conbee_test
+
+-setcookie web_conbee_test_cookie
+
++K true
++A30
